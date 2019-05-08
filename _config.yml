@@ -1,0 +1,49 @@
+# Site settings
+title: PC Wong
+description: I am Wong Pui Ching, PC. 
+baseurl: "/pcwong"  # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+# plugins:
+# - jekyll-feed
+
+
+# Author Info
+author:
+  name     : Wong Pui Ching, PC
+  image    : assets/images/avatar.jpg
+  linkedin : pui-ching-wong-507b62178
+  facebook : profile.php?id=1085528734
+  instagram: puiching199
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Posts default Permalink
+permalink: articles/:title
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
