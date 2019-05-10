@@ -1,7 +1,7 @@
 ---
 name: Garden of Remembrance
 tag: [Transformation, Hong Kong, 2013]
-image: /pcwong/assets/images/S1_1.png
+image: /pcwong/assets/images/project_S1/S1_1.png
 description: This studio required to transform the emotion from the images to the architectural spaces to form a garden of remembrance. Images implied the sequence of visiting the garden and the tran-sition of the space. The garden of remembrance provides the place for people to tribute their love and expresses their feeling. A spatial arrangement can make people to change their mind and have a new journey.
 ---
 
@@ -13,25 +13,25 @@ description: This studio required to transform the emotion from the images to th
 + Site: Tokwawan, Hong Kong
 + Tutor: Dr. DAHL Per-Johan
 
-![loading](/pcwong/assets/images/S1_1.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_1.png " ")
 
 ## Conceptual Development
 
 #### Combinations
 
-![loading](/pcwong/assets/images/S1_4.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_4.png " ")
 
-![loading](/pcwong/assets/images/S1_2.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_2.png " ")
 
 #### 3 in 1 model
 
-![loading](/pcwong/assets/images/S1_3.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_3.png " ")
 
 ## Design development
 
-![loading](/pcwong/assets/images/S1_6.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_6.png " ")
 
-![loading](/pcwong/assets/images/S1_5.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_5.png " ")
 
 
 ## Floor plan
@@ -46,16 +46,16 @@ description: This studio required to transform the emotion from the images to th
 8. Foyer
 9. Scattering Space
 
-![loading](/pcwong/assets/images/S1_7.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_7.png " ")
 
 ## Section
 
-![loading](/pcwong/assets/images/S1_10.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_10.png " ")
 
 ## Scattering Space
 
-![loading](/pcwong/assets/images/S1_8.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_8.png " ")
 
 ## Open Pathway
 
-![loading](/pcwong/assets/images/S1_9.png " ")
+![loading](/pcwong/assets/images/project_S1/S1_9.png " ")
