@@ -1,6 +1,9 @@
 # Site settings
 title: PC Wong
-description: I am Wong Pui Ching, PC. 
+description: >- # this means to ignore newlines until "baseurl:"
+  I am Wong Pui Ching, PC.<br>
+  I want to make the Earth a better place to live.
+
 baseurl: "/pcwong"  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
