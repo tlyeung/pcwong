@@ -2,7 +2,7 @@
 layout: page
 title: Downloads
 permalink: /downloads/
-weight: 4
+weight: 3
 ---
 
 # **Downloads**
