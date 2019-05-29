@@ -5,7 +5,7 @@ permalink: /downloads/
 weight: 3
 ---
 
-# **Downloads**
+#### **Downloads**
 
 You can download PC Wong's portfolio here.
 
