@@ -1,8 +1,9 @@
 # Site settings
 title: PC Wong
-description: >- # this means to ignore newlines until "baseurl:"
-  I am Wong Pui Ching, PC.<br>
-  I want to make the Earth a better place to live.
+description: Wong Pui Ching, PC
+
+# this means to ignore newlines until "baseurl:"
+
 
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://pcwong.net" # the base hostname & protocol for your site, e.g. http://example.com
@@ -19,8 +20,8 @@ author:
   name     : Wong Pui Ching, PC
   image    : assets/images/avatar.jpg
   linkedin : pui-ching-wong-507b62178
-  facebook : profile.php?id=1085528734
-  instagram: puiching199
+  facebook : 
+  instagram: 
   email    : contact@pcwong.net
 
 # Collections
