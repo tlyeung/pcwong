@@ -10,6 +10,6 @@ weight: 3
 You can download PC Wong's portfolio here.
 
 <div class="text-center"> 
-  {% include button.html link="/Wong_Pui_Ching_Portfolio.pdf" 
+  {% include button.html link="/Portfolio_PC.pdf" 
   text="portfolio" style="primary" %}
 </div>
